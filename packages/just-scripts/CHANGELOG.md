@@ -1,6 +1,14 @@
 # Change Log - just-scripts
 
-This log was last generated on Fri, 19 Apr 2019 01:51:22 GMT and should not be manually modified.
+This log was last generated on Mon, 22 Apr 2019 21:18:06 GMT and should not be manually modified.
+
+## 0.14.2
+Mon, 22 Apr 2019 21:18:06 GMT
+
+### Patches
+
+- get rid of accidental console.log
+- get rid of another accidental console.log in webpackTask
 
 ## 0.14.1
 Fri, 19 Apr 2019 01:51:22 GMT
