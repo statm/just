@@ -1,6 +1,13 @@
 # Change Log - just-stack-monorepo
 
-This log was last generated on Wed, 15 May 2019 18:33:15 GMT and should not be manually modified.
+This log was last generated on Tue, 21 May 2019 22:13:49 GMT and should not be manually modified.
+
+## 0.6.18
+Tue, 21 May 2019 22:13:49 GMT
+
+### Patches
+
+- Switch microsoft in repo URL to lowercase
 
 ## 0.6.17
 Wed, 15 May 2019 18:33:15 GMT
