@@ -1,6 +1,13 @@
 # Change Log - create-uifabric
 
-This log was last generated on Mon, 06 May 2019 15:58:55 GMT and should not be manually modified.
+This log was last generated on Tue, 21 May 2019 22:12:49 GMT and should not be manually modified.
+
+## 0.2.3
+Tue, 21 May 2019 22:12:49 GMT
+
+### Patches
+
+- Switch microsoft in repo URL to lowercase
 
 ## 0.2.2
 Mon, 06 May 2019 15:58:55 GMT

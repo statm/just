@@ -1,6 +1,17 @@
 # Change Log - just-scripts
 
-This log was last generated on Wed, 15 May 2019 18:44:08 GMT and should not be manually modified.
+This log was last generated on Tue, 21 May 2019 22:12:49 GMT and should not be manually modified.
+
+## 0.16.0
+Tue, 21 May 2019 22:12:49 GMT
+
+### Minor changes
+
+- Adds a nodeArgs to jestTask
+
+### Patches
+
+- Switch microsoft in repo URL to lowercase
 
 ## 0.15.3
 Wed, 15 May 2019 18:44:08 GMT
